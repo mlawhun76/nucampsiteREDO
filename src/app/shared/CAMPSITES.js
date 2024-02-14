@@ -11,7 +11,7 @@ export const CAMPSITES = [
         elevation: 1233,
         featured: false,
         description:
-            'Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers.'
+            'Nestled in the foothills of thMe Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers.'
     },
     {
         id: 1,
