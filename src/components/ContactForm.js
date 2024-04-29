@@ -107,7 +107,7 @@ const ContactForm = () => {
                         >
                             <option>By Phone</option>
                             <option>By Email</option>
-                        </Field>
+                          </Field>
                     </Col>
                 </FormGroup>
 
